@@ -35,7 +35,7 @@ This repository contains a distributed key-value store implementation with featu
 
 
 ### Todo
-- [ ] Implement Khrum Consensus for Read/Write operations.
+- [ ] Quorum Consensus for Read/Write operations.
 - [ ] Enhance fault tolerance mechanisms for improved resilience.
 - [ ] Implement data replication for enhanced data durability.
 - [ ] Integrate with a distributed tracing system for performance analysis.
