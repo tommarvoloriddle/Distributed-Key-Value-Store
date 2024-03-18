@@ -4,8 +4,13 @@ This repository contains the codebase for a Distributed Key-Value Store applicat
 ![Scalability](https://img.shields.io/badge/Scalability-✔-brightgreen)
 ![Consistency](https://img.shields.io/badge/Consistency-✔-brightgreen)
 ![Extensibility](https://img.shields.io/badge/Extensibility-✔-brightgreen)
+![Resilience](https://img.shields.io/badge/Resilience-✔-brightgreen)
 
 This repository contains a distributed key-value store implementation with features such as LRU eviction policy, rehashing using Consistent Hashing, and dynamic addition/removal of caches.
+
+## Demo
+
+![Demo](/Distributed-Key-Value-Store/frontend/web/demo.gif)
 
 ## Features
 
@@ -26,10 +31,7 @@ This repository contains a distributed key-value store implementation with featu
 - **Fault Tolerance**: Implements fault-tolerant mechanisms to handle cache failures or network partitions gracefully. The system ensures data availability and consistency even in the presence of cache or network failures.
 
 - **Monitoring and Logging**: Includes comprehensive monitoring and logging capabilities to track system performance, identify bottlenecks, and troubleshoot issues effectively.
-  
-## Demo
 
-![Demo](demo.gif)
 
 
 ### Todo
