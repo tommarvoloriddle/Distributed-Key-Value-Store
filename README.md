@@ -10,7 +10,7 @@ This repository contains a distributed key-value store implementation with featu
 
 ## Demo
 
-![Demo](/Distributed-Key-Value-Store/frontend/web/demo.gif)
+![Demo](https://github.com/tommarvoloriddle/Distributed-Key-Value-Store/blob/main/frontend/web/demo.gif)
 
 ## Features
 
